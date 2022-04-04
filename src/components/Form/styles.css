@@ -1,0 +1,75 @@
+form {
+   display: flex;
+   flex-direction: column;
+   width: 250px;
+   height: 250px;
+   box-shadow: 0px 4px 32px -12px rgba(0, 0, 0, 0.25);
+   border-radius: 4px;
+   padding: 38px 25px;
+   justify-content: space-between;
+}
+form span {
+   color: #212529;
+   font-size: 12px;
+   line-height: 22px;
+   margin-bottom: 12px;
+}
+form input {
+   font-weight: 400;
+   font-size: 12.75px;
+   line-height: 26px;
+   color: #868E96;
+   background-color: #F8F9FA;
+   padding: 8px 8px;
+   border: none;
+   border-radius: 8px;
+   margin-bottom: 4.4px;
+}
+.ex {
+   font-weight: 400;
+   font-size: 12px;
+   line-height: 20px;
+   color: #868E96;
+   margin-bottom: 17.7px;
+}
+form div {
+   margin-bottom: 10px;
+}
+.label {
+   margin-right: 140px;
+}
+.inputs {
+   margin-bottom: 19px;
+}
+.inputs input {
+   width: 115px;
+   margin-right: 36px;
+}
+select {
+   font-weight: 400;
+   font-size: 12.75px;
+   line-height: 26px;
+   color: #868E96;
+   padding: 12px 8px;
+   border: none;
+   background-color: #F8F9FA;
+   border-radius: 8px;
+   cursor: pointer;
+}
+form button {
+   width: 247px;
+   background-color: #FD377E;
+   line-height: 30px;
+   border: 2px solid #FD377E;
+   border-radius: 8px;
+   color: white;
+   font-weight: 500;
+   font-size: 16px;
+   cursor: pointer;
+   margin-top: 10px;
+}
+
+form button:hover {
+   background-color: #E34981;
+   border: 2px solid #E34981;
+}

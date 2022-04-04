@@ -1,0 +1,70 @@
+.green {
+   border-left: 5px solid #03B898;
+   padding: 8px 30px;
+   margin-bottom: 30px;
+   border-radius: 4px;
+}
+.green div {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.green span {
+   font-weight: 400;
+   font-size: 12px;
+   line-height: 22px;
+   color: #868E96;
+}
+.green div p {
+   color: #212529;
+   font-weight: 700;
+   font-size: 16px;
+   line-height: 30px;
+}
+.green div span {
+   color: #212529;
+}
+.trash--icon {
+   color: #868E96;
+   margin-left: 15px;
+}
+.green button {
+   border: none;
+   cursor: pointer;
+   background-color: white;
+}
+.grey {
+   border-left: 5px solid #E9ECEF;
+   padding: 8px 30px;
+   margin-bottom: 30px;
+   border-radius: 4px;
+}
+.grey div {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.grey span {
+   font-weight: 400;
+   font-size: 12px;
+   line-height: 22px;
+   color: #868E96;
+}
+.grey div p {
+   color: #212529;
+   font-weight: bold;
+   font-size: 16px;
+   line-height: 30px;
+}
+.grey div span {
+   color: #212529;
+}
+.trash--icon {
+   color: #868E96;
+   margin-left: 15px;
+}
+.grey button {
+   border: none;
+   cursor: pointer;
+   background-color: white;
+}
